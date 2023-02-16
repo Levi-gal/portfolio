@@ -1,5 +1,5 @@
 name: Levenge Gal
-markdown: karmdown
+markdown: kramdown
 
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
