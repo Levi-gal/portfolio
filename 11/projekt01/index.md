@@ -1,4 +1,4 @@
-# *Projekt 01* 
+# ° Projekt 1 °
 
 > készült: 2022.02.16.
 
