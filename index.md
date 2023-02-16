@@ -1,11 +1,11 @@
-# - Gál Levente Máté Portfoliója - 
+# ° Gál Levente Máté Portfoliója °
 
 
 ## - 11. évfolyamon készített projektek - :
 
-Projekt [01] [Skori - Vezeték Nélküli LED meghajtó ](https://leventegal.github.io/portfolio/11/projekt01). 
+Projekt 1. [Skori - Vezeték Nélküli LED meghajtó ](https://leventegal.github.io/portfolio/11/projekt01). 
 
-Projekt [02] [](https://sandorpeteer.github.io/portfolio/11/projekt02).
+Projekt 2. [](https://sandorpeteer.github.io/portfolio/11/projekt02).
 
 ## - 12. évfolyamon készített projektek - :
 
@@ -23,8 +23,6 @@ Projekt [02](https://sandorpeteer.github.io/portfolio/12/).
 
 Projekt [03](https://sandorpeteer.github.io/portfolio/12/).
 
-<details><summary> - Rólam röviden - </summary>
 
-[Rólam röviden itt:](https://leventegal.github.io/portfolio/Rolam)
+[°Rólam röviden itt°:](https://leventegal.github.io/portfolio/Rolam)
 
-</details>
