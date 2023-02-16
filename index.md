@@ -26,7 +26,7 @@ Projekt [03](https://sandorpeteer.github.io/portfolio/12/).
 <details><summary> - Rólam röviden - </summary>
 <p>
 
-
+[Rólam rövide itt:](https://leventegal.github.io/portfolio/Rolam)
 
 </p>
 </details>
