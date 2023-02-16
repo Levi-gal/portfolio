@@ -12,7 +12,7 @@ Projekt 02 [Vezeték nélküli LED meghajtó](https://sandorpeteer.github.io/por
 </p>
 </details>
 
-<details><summary>11. Évfolyam</summary>
+<details><summary>12. Évfolyam</summary>
 <p>
 
 ## 12. évfolyamon készített projektek:
@@ -26,7 +26,7 @@ Projekt [03](https://sandorpeteer.github.io/portfolio/12/).
 </p>
 </details>
 
-<details><summary>11. Évfolyam</summary>
+<details><summary>13. Évfolyam</summary>
 <p>
 
 ## 13. évfolyamon készített projektek:
