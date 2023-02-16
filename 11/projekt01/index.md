@@ -1,10 +1,10 @@
-# Projekt 01 
+# *Projekt 01* 
 
 > készült: 2022.02.16.
 
 ## Skori [ Vezeték Nélküli LED meghajtó ] építése / mérése
 
-[VISSZA](https://leventegal.github.io/portfolio/)
+[- VISSZA A FŐ OLDALRA -](https://leventegal.github.io/portfolio/)
 
 ![kapcsolasirajz]( "kapcsolási rajz")
 
@@ -15,7 +15,7 @@
 ## Az általam választott alkatrész értékek, 12V tápfeszültségre méretezve:
 
 |Név|Jelölés|Érték|darab|
-|----|----|----|------|
+|------|------|------|------|
 |Ellenállás|R1|12k|1|
 |Kondenzátor|C1|470pF(1nF)|2|
 |Kondenzátor|C2|470pF(1nF)|2|
